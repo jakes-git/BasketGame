@@ -1,0 +1,157 @@
+{
+  "baskets":[
+     {
+       "name": "Brown Basket",
+       "description": "A really nice basket",
+       "image": "BrownBasket",
+       "preview": "BrownBasketPreview",
+       "price": 0
+     },
+     {
+      "name": "Blue Basket",
+      "description": "A really nice blue basket",
+      "image": "BlueBasket",
+      "preview": "BlueBasketPreview",
+      "price": 100
+    },
+    {
+      "name": "Red Basket",
+      "description": "A really nice red basket",
+      "image": "RedBasket",
+      "preview": "RedBasketPreview",
+      "price": 200
+    },
+    {
+      "name": "Flower Pot",
+      "description": "Maybe you could put a flower in \nhere?",
+      "image": "FlowerpotBasket",
+      "preview": "FlowerpotBasketPreview",
+      "price": 300
+    },
+    {
+      "name": "Martini Glass",
+      "description": "Bottoms Up!",
+      "image": "MartiniBasket",
+      "preview": "MartiniBasketPreview",
+      "price": 400
+    },
+    {
+      "name": "Spike Basket",
+      "description": "Gloves required",
+      "image": "SpikeBasket",
+      "preview": "SpikeBasketPreview",
+      "price": 500
+    },
+    {
+      "name": "Thatched Basket",
+      "description": "Holds lot of fruit",
+      "image": "ThatchedBasket",
+      "preview": "ThatchedBasketPreview",
+      "price": 600
+    },
+    {
+      "name": "Trash Can",
+      "description": "Literal trash",
+      "image": "TrashcanBasket",
+      "preview": "TrashcanBasketPreview",
+      "price": 700
+    }
+  ],
+  "backgrounds":[
+    {
+      "name": "Green hills",
+      "description": "Find peace and tranquility here",
+      "image": "FieldBackground",
+      "preview": "FieldBackgroundPreview",
+      "price": 0
+    },
+    {
+      "name": "City",
+      "description": "Metropolis",
+      "image": "CityBackground",
+      "preview": "CityBackgroundPreview",
+      "price": 100
+    },
+    {
+      "name": "Fire",
+      "description": "It burns so good",
+      "image": "FireBackground",
+      "preview": "FireBackgroundPreview",
+      "price": 300
+    },
+    {
+      "name": "Mountains",
+      "description": "Taller than the Swiss Alps",
+      "image": "MountainBackground",
+      "preview": "MountainBackgroundPreview",
+      "price": 400
+    },
+    {
+      "name": "Sky",
+      "description": "Better not be afraid of heights",
+      "image": "SkyBackground",
+      "preview": "SkyBackgroundPreview",
+      "price": 500
+    },
+    {
+      "name": "Starry Night",
+      "description": "Van Gogh would be humbled",
+      "image": "StarsBackground",
+      "preview": "StarsBackgroundPreview",
+      "price": 600
+    },
+    {
+      "name": "Volcano",
+      "description": "Krakatoa!",
+      "image": "VolcanoBackground",
+      "preview": "VolcanoBackgroundPreview",
+      "price": 700
+    }
+  ],
+  "misc":[
+    {
+      "name": "Bomb saver",
+      "description": "Will save you from a bomb",
+      "image": "Bomb",
+      "preview": "BombPreview",
+      "price": 250
+    }
+  ],
+  "music":[
+    {
+      "name": "Burnt Spirit",
+      "description": "This sprint is far past well-done",
+      "image": "Burnt Spirit",
+      "preview": "MusicNote",
+      "price": 0
+    },
+    {
+      "name": "Hot Pursuit",
+      "description": "This pursuit is hotter than an \naverage one",
+      "image": "Hot Pursuit",
+      "preview": "MusicNote",
+      "price": 200
+    },
+    {
+      "name": "Jerry Fire",
+      "description": "The Fire of Jerry",
+      "image": "Jerry Fire",
+      "preview": "MusicNote",
+      "price": 400
+    },
+    {
+      "name": "Mischief Maker",
+      "description": "A true class clown",
+      "image": "Mischief Maker",
+      "preview": "MusicNote",
+      "price": 600
+    },
+    {
+      "name": "Mountain Emperor",
+      "description": "Big Bertha",
+      "image": "Mountain Emperor",
+      "preview": "MusicNote",
+      "price": 800
+    }
+  ]
+}

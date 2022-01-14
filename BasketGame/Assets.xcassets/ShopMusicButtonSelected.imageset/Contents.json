@@ -1,0 +1,19 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "ShopMusicButtonSelected~iphone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "ShopMusicButtonSelected~ipad.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

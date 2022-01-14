@@ -1,0 +1,19 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "SpikeBasketPreview~iphone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "SpikeBasketPreview~ipad.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

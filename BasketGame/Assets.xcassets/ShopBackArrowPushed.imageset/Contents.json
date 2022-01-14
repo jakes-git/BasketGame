@@ -1,0 +1,19 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "ShopBackArrowPushed~iphone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "ShopBackArrowPushed~ipad.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "MartiniBasketPreview~iphone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "MartiniBasketPreview~ipad.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
